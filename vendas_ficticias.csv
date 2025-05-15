@@ -1,0 +1,201 @@
+Data,Produto,Categoria,Quantidade,Preço Unitário,Total,Vendedor
+2024-02-29,Tênis,Calçados,4,199.9,799.6,Carlos
+2024-03-24,Fone de Ouvido,Eletrônicos,5,199.9,999.5,Ana
+2024-02-29,Notebook,Eletrônicos,4,2499.9,9999.6,Carlos
+2024-04-16,Relógio,Acessórios,3,299.9,899.7,Fernanda
+2024-04-29,Sandália,Calçados,5,89.9,449.5,Eduardo
+2024-04-02,Relógio,Acessórios,2,299.9,599.8,Eduardo
+2024-04-15,Mochila,Acessórios,2,159.9,319.8,Ana
+2024-04-13,Calça Jeans,Moda,5,99.9,499.5,Beatriz
+2024-04-20,Camiseta,Moda,2,49.9,99.8,Carlos
+2024-04-18,Notebook,Eletrônicos,1,2499.9,2499.9,Carlos
+2024-01-07,Relógio,Acessórios,5,299.9,1499.5,Carlos
+2024-01-28,Tênis,Calçados,1,199.9,199.9,Fernanda
+2024-03-21,Mochila,Acessórios,1,159.9,159.9,Eduardo
+2024-03-06,Fone de Ouvido,Eletrônicos,4,199.9,799.6,Fernanda
+2024-04-02,Boné,Moda,4,39.9,159.6,Ana
+2024-04-05,Calça Jeans,Moda,2,99.9,199.8,Ana
+2024-01-11,Tênis,Calçados,3,199.9,599.7,Eduardo
+2024-04-02,Mochila,Acessórios,5,159.9,799.5,Eduardo
+2024-01-04,Sandália,Calçados,5,89.9,449.5,Eduardo
+2024-03-09,Mochila,Acessórios,2,159.9,319.8,Carlos
+2024-01-21,Camiseta,Moda,2,49.9,99.8,Ana
+2024-03-28,Calça Jeans,Moda,2,99.9,199.8,Eduardo
+2024-04-25,Tênis,Calçados,2,199.9,399.8,Carlos
+2024-01-13,Camiseta,Moda,1,49.9,49.9,Carlos
+2024-03-08,Smartphone,Eletrônicos,1,1799.9,1799.9,Beatriz
+2024-01-17,Mochila,Acessórios,5,159.9,799.5,Carlos
+2024-03-28,Tênis,Calçados,5,199.9,999.5,Beatriz
+2024-04-01,Camiseta,Moda,3,49.9,149.7,Ana
+2024-04-01,Boné,Moda,5,39.9,199.5,Ana
+2024-01-20,Fone de Ouvido,Eletrônicos,3,199.9,599.7,Fernanda
+2024-02-17,Notebook,Eletrônicos,3,2499.9,7499.7,Eduardo
+2024-03-06,Notebook,Eletrônicos,2,2499.9,4999.8,Carlos
+2024-02-22,Fone de Ouvido,Eletrônicos,5,199.9,999.5,Eduardo
+2024-03-08,Tênis,Calçados,2,199.9,399.8,Beatriz
+2024-01-09,Smartphone,Eletrônicos,5,1799.9,8999.5,Carlos
+2024-03-15,Fone de Ouvido,Eletrônicos,3,199.9,599.7,Eduardo
+2024-03-02,Tênis,Calçados,5,199.9,999.5,Carlos
+2024-04-22,Relógio,Acessórios,5,299.9,1499.5,Beatriz
+2024-04-07,Smartphone,Eletrônicos,4,1799.9,7199.6,Ana
+2024-01-19,Relógio,Acessórios,3,299.9,899.7,Eduardo
+2024-01-31,Notebook,Eletrônicos,5,2499.9,12499.5,Beatriz
+2024-04-15,Fone de Ouvido,Eletrônicos,5,199.9,999.5,Ana
+2024-01-21,Sandália,Calçados,2,89.9,179.8,Eduardo
+2024-02-06,Sandália,Calçados,2,89.9,179.8,Ana
+2024-02-03,Smartphone,Eletrônicos,4,1799.9,7199.6,Ana
+2024-02-16,Boné,Moda,2,39.9,79.8,Beatriz
+2024-04-22,Relógio,Acessórios,2,299.9,599.8,Fernanda
+2024-03-07,Calça Jeans,Moda,1,99.9,99.9,Ana
+2024-01-30,Tênis,Calçados,4,199.9,799.6,Eduardo
+2024-04-05,Relógio,Acessórios,4,299.9,1199.6,Ana
+2024-03-13,Camiseta,Moda,4,49.9,199.6,Ana
+2024-03-25,Tênis,Calçados,5,199.9,999.5,Beatriz
+2024-02-16,Fone de Ouvido,Eletrônicos,5,199.9,999.5,Ana
+2024-03-21,Relógio,Acessórios,2,299.9,599.8,Fernanda
+2024-02-16,Sandália,Calçados,3,89.9,269.7,Fernanda
+2024-03-08,Calça Jeans,Moda,5,99.9,499.5,Eduardo
+2024-04-22,Mochila,Acessórios,1,159.9,159.9,Beatriz
+2024-03-22,Fone de Ouvido,Eletrônicos,2,199.9,399.8,Fernanda
+2024-02-01,Fone de Ouvido,Eletrônicos,1,199.9,199.9,Eduardo
+2024-02-14,Tênis,Calçados,5,199.9,999.5,Fernanda
+2024-03-03,Sandália,Calçados,3,89.9,269.7,Ana
+2024-02-20,Boné,Moda,1,39.9,39.9,Carlos
+2024-04-14,Mochila,Acessórios,4,159.9,639.6,Eduardo
+2024-04-10,Tênis,Calçados,4,199.9,799.6,Fernanda
+2024-03-13,Relógio,Acessórios,2,299.9,599.8,Fernanda
+2024-02-20,Notebook,Eletrônicos,3,2499.9,7499.7,Beatriz
+2024-03-31,Mochila,Acessórios,2,159.9,319.8,Beatriz
+2024-03-01,Notebook,Eletrônicos,2,2499.9,4999.8,Eduardo
+2024-03-09,Camiseta,Moda,4,49.9,199.6,Eduardo
+2024-04-18,Relógio,Acessórios,4,299.9,1199.6,Carlos
+2024-03-27,Smartphone,Eletrônicos,4,1799.9,7199.6,Ana
+2024-02-19,Calça Jeans,Moda,5,99.9,499.5,Fernanda
+2024-03-15,Relógio,Acessórios,4,299.9,1199.6,Ana
+2024-03-02,Boné,Moda,2,39.9,79.8,Beatriz
+2024-02-28,Relógio,Acessórios,2,299.9,599.8,Carlos
+2024-02-27,Mochila,Acessórios,3,159.9,479.7,Beatriz
+2024-02-22,Tênis,Calçados,4,199.9,799.6,Eduardo
+2024-03-20,Sandália,Calçados,2,89.9,179.8,Carlos
+2024-04-30,Sandália,Calçados,3,89.9,269.7,Fernanda
+2024-04-27,Camiseta,Moda,5,49.9,249.5,Fernanda
+2024-01-12,Relógio,Acessórios,2,299.9,599.8,Beatriz
+2024-02-19,Camiseta,Moda,3,49.9,149.7,Eduardo
+2024-04-04,Mochila,Acessórios,1,159.9,159.9,Beatriz
+2024-01-12,Fone de Ouvido,Eletrônicos,4,199.9,799.6,Fernanda
+2024-01-30,Smartphone,Eletrônicos,5,1799.9,8999.5,Carlos
+2024-02-21,Sandália,Calçados,1,89.9,89.9,Ana
+2024-01-02,Smartphone,Eletrônicos,3,1799.9,5399.7,Fernanda
+2024-04-16,Camiseta,Moda,5,49.9,249.5,Carlos
+2024-01-18,Fone de Ouvido,Eletrônicos,3,199.9,599.7,Ana
+2024-04-27,Notebook,Eletrônicos,1,2499.9,2499.9,Fernanda
+2024-02-21,Sandália,Calçados,4,89.9,359.6,Carlos
+2024-03-22,Mochila,Acessórios,2,159.9,319.8,Eduardo
+2024-02-20,Calça Jeans,Moda,2,99.9,199.8,Eduardo
+2024-03-17,Sandália,Calçados,2,89.9,179.8,Ana
+2024-04-15,Camiseta,Moda,4,49.9,199.6,Beatriz
+2024-02-18,Boné,Moda,5,39.9,199.5,Eduardo
+2024-03-29,Relógio,Acessórios,3,299.9,899.7,Ana
+2024-03-15,Calça Jeans,Moda,1,99.9,99.9,Eduardo
+2024-02-02,Notebook,Eletrônicos,5,2499.9,12499.5,Carlos
+2024-04-24,Calça Jeans,Moda,3,99.9,299.7,Eduardo
+2024-03-22,Sandália,Calçados,3,89.9,269.7,Carlos
+2024-02-17,Smartphone,Eletrônicos,1,1799.9,1799.9,Carlos
+2024-04-20,Camiseta,Moda,2,49.9,99.8,Carlos
+2024-03-29,Boné,Moda,4,39.9,159.6,Eduardo
+2024-02-26,Sandália,Calçados,1,89.9,89.9,Ana
+2024-01-10,Mochila,Acessórios,5,159.9,799.5,Carlos
+2024-03-13,Boné,Moda,5,39.9,199.5,Beatriz
+2024-04-25,Relógio,Acessórios,1,299.9,299.9,Carlos
+2024-04-01,Tênis,Calçados,4,199.9,799.6,Beatriz
+2024-04-01,Sandália,Calçados,1,89.9,89.9,Fernanda
+2024-02-01,Mochila,Acessórios,3,159.9,479.7,Ana
+2024-03-29,Sandália,Calçados,3,89.9,269.7,Beatriz
+2024-04-10,Calça Jeans,Moda,4,99.9,399.6,Fernanda
+2024-02-21,Mochila,Acessórios,4,159.9,639.6,Eduardo
+2024-01-25,Camiseta,Moda,2,49.9,99.8,Eduardo
+2024-03-17,Fone de Ouvido,Eletrônicos,2,199.9,399.8,Ana
+2024-02-12,Tênis,Calçados,2,199.9,399.8,Ana
+2024-01-13,Boné,Moda,1,39.9,39.9,Eduardo
+2024-02-20,Tênis,Calçados,4,199.9,799.6,Beatriz
+2024-02-22,Sandália,Calçados,1,89.9,89.9,Beatriz
+2024-03-15,Notebook,Eletrônicos,3,2499.9,7499.7,Fernanda
+2024-04-28,Smartphone,Eletrônicos,4,1799.9,7199.6,Fernanda
+2024-02-21,Fone de Ouvido,Eletrônicos,2,199.9,399.8,Fernanda
+2024-03-12,Sandália,Calçados,3,89.9,269.7,Fernanda
+2024-04-08,Notebook,Eletrônicos,2,2499.9,4999.8,Beatriz
+2024-01-12,Mochila,Acessórios,3,159.9,479.7,Eduardo
+2024-04-14,Tênis,Calçados,5,199.9,999.5,Beatriz
+2024-04-29,Mochila,Acessórios,2,159.9,319.8,Beatriz
+2024-03-12,Smartphone,Eletrônicos,3,1799.9,5399.7,Eduardo
+2024-04-24,Smartphone,Eletrônicos,3,1799.9,5399.7,Eduardo
+2024-01-21,Fone de Ouvido,Eletrônicos,4,199.9,799.6,Carlos
+2024-04-11,Calça Jeans,Moda,1,99.9,99.9,Ana
+2024-02-14,Smartphone,Eletrônicos,4,1799.9,7199.6,Beatriz
+2024-04-07,Fone de Ouvido,Eletrônicos,3,199.9,599.7,Eduardo
+2024-02-03,Relógio,Acessórios,3,299.9,899.7,Beatriz
+2024-01-08,Camiseta,Moda,2,49.9,99.8,Ana
+2024-04-16,Sandália,Calçados,5,89.9,449.5,Beatriz
+2024-02-09,Mochila,Acessórios,5,159.9,799.5,Carlos
+2024-01-18,Mochila,Acessórios,5,159.9,799.5,Eduardo
+2024-01-25,Sandália,Calçados,5,89.9,449.5,Ana
+2024-01-23,Calça Jeans,Moda,2,99.9,199.8,Ana
+2024-04-06,Camiseta,Moda,3,49.9,149.7,Ana
+2024-01-30,Calça Jeans,Moda,4,99.9,399.6,Ana
+2024-01-25,Boné,Moda,5,39.9,199.5,Carlos
+2024-03-05,Tênis,Calçados,5,199.9,999.5,Fernanda
+2024-03-29,Fone de Ouvido,Eletrônicos,1,199.9,199.9,Beatriz
+2024-03-09,Sandália,Calçados,1,89.9,89.9,Fernanda
+2024-01-04,Sandália,Calçados,5,89.9,449.5,Eduardo
+2024-04-15,Calça Jeans,Moda,5,99.9,499.5,Eduardo
+2024-04-07,Tênis,Calçados,5,199.9,999.5,Fernanda
+2024-04-04,Camiseta,Moda,3,49.9,149.7,Fernanda
+2024-04-01,Notebook,Eletrônicos,5,2499.9,12499.5,Carlos
+2024-02-12,Mochila,Acessórios,4,159.9,639.6,Carlos
+2024-04-02,Tênis,Calçados,5,199.9,999.5,Eduardo
+2024-04-13,Calça Jeans,Moda,2,99.9,199.8,Carlos
+2024-01-27,Sandália,Calçados,4,89.9,359.6,Carlos
+2024-01-09,Sandália,Calçados,2,89.9,179.8,Ana
+2024-01-29,Boné,Moda,2,39.9,79.8,Eduardo
+2024-04-08,Camiseta,Moda,4,49.9,199.6,Beatriz
+2024-01-25,Boné,Moda,5,39.9,199.5,Carlos
+2024-02-08,Mochila,Acessórios,1,159.9,159.9,Eduardo
+2024-04-13,Mochila,Acessórios,3,159.9,479.7,Fernanda
+2024-01-19,Calça Jeans,Moda,1,99.9,99.9,Ana
+2024-01-31,Camiseta,Moda,3,49.9,149.7,Beatriz
+2024-02-15,Relógio,Acessórios,3,299.9,899.7,Fernanda
+2024-01-12,Mochila,Acessórios,5,159.9,799.5,Carlos
+2024-04-15,Relógio,Acessórios,1,299.9,299.9,Eduardo
+2024-02-25,Relógio,Acessórios,5,299.9,1499.5,Beatriz
+2024-02-19,Smartphone,Eletrônicos,3,1799.9,5399.7,Ana
+2024-03-05,Smartphone,Eletrônicos,1,1799.9,1799.9,Eduardo
+2024-02-10,Mochila,Acessórios,5,159.9,799.5,Ana
+2024-04-18,Camiseta,Moda,3,49.9,149.7,Eduardo
+2024-04-29,Tênis,Calçados,3,199.9,599.7,Ana
+2024-04-14,Smartphone,Eletrônicos,2,1799.9,3599.8,Eduardo
+2024-02-29,Smartphone,Eletrônicos,2,1799.9,3599.8,Fernanda
+2024-04-28,Fone de Ouvido,Eletrônicos,4,199.9,799.6,Carlos
+2024-02-20,Smartphone,Eletrônicos,5,1799.9,8999.5,Beatriz
+2024-04-17,Boné,Moda,3,39.9,119.7,Eduardo
+2024-03-27,Fone de Ouvido,Eletrônicos,4,199.9,799.6,Beatriz
+2024-04-08,Fone de Ouvido,Eletrônicos,2,199.9,399.8,Carlos
+2024-02-26,Tênis,Calçados,1,199.9,199.9,Ana
+2024-01-24,Fone de Ouvido,Eletrônicos,1,199.9,199.9,Carlos
+2024-03-03,Camiseta,Moda,3,49.9,149.7,Carlos
+2024-04-27,Relógio,Acessórios,5,299.9,1499.5,Beatriz
+2024-01-12,Smartphone,Eletrônicos,2,1799.9,3599.8,Carlos
+2024-04-23,Mochila,Acessórios,2,159.9,319.8,Ana
+2024-03-24,Boné,Moda,2,39.9,79.8,Ana
+2024-04-14,Smartphone,Eletrônicos,3,1799.9,5399.7,Beatriz
+2024-01-09,Fone de Ouvido,Eletrônicos,4,199.9,799.6,Carlos
+2024-02-15,Sandália,Calçados,1,89.9,89.9,Carlos
+2024-03-07,Smartphone,Eletrônicos,5,1799.9,8999.5,Fernanda
+2024-04-29,Sandália,Calçados,3,89.9,269.7,Eduardo
+2024-04-11,Notebook,Eletrônicos,2,2499.9,4999.8,Ana
+2024-03-29,Relógio,Acessórios,5,299.9,1499.5,Carlos
+2024-04-17,Tênis,Calçados,3,199.9,599.7,Ana
+2024-03-18,Calça Jeans,Moda,3,99.9,299.7,Beatriz
+2024-02-12,Mochila,Acessórios,4,159.9,639.6,Ana
+2024-03-01,Calça Jeans,Moda,3,99.9,299.7,Eduardo
+2024-04-18,Boné,Moda,2,39.9,79.8,Carlos
+2024-01-19,Mochila,Acessórios,1,159.9,159.9,Ana
